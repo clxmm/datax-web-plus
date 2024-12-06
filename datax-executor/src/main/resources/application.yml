@@ -1,7 +1,7 @@
 # web port
 server:
-  port: ${server.port}
-  #port: 8081
+#  port: ${server.port}
+  port: 8081
 
 # log config
 logging:
